@@ -1,0 +1,126 @@
+section{
+
+
+    margin-top: -40px;
+
+}
+
+
+.hm-foot-icon ul li {
+    float: left;
+    list-style: none !important;
+    padding: 0;
+    margin: 0 auto;
+}
+
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.hm-foot-icon ul li>a {
+    color: #636a82;
+    margin-right: 18px;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -ms-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+}
+
+single-contact-btn>a, single-contact-btn>a:hover, single-contact-btn>a:active, single-contact-btn>a:focus {
+    display: inline-block;
+    text-decoration: none;
+    color: #636a82;
+    font-size: 16px;
+    /*padding: 0;*/
+}
+
+.barWrapper {
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.single-progress-txt {
+    display: flex;
+}
+.single-progress-txt h3 {
+    width: 10%;
+    color: #12bbad;;
+    position: relative;
+    top: 6px;
+    left: 20px;
+    font-size: 16px;
+    margin: 0;
+}
+
+.progress {
+    border-radius: 3px;
+    overflow: visible;
+    background: #e6ecf3;
+    height: 8px;
+    margin-top: 15px;
+    width: 85%;
+    margin-bottom: 37px;
+}
+
+nav {
+    opacity: 0.92;
+    filter: alpha(opacity=95); /* For IE8 and earlier */
+  }
+
+  .py-auto{
+    padding: 12% 0 !important;
+  }
+
+  .test{
+    height: 98vh;
+
+
+  }
+
+
+  .center, .center-align {
+    text-align: center;
+}
+
+.content-wraper{
+
+   
+
+}
+
+section {
+    margin-top: -40px;
+    margin-top: 50px;
+    margin-bottom: 99px;
+}
+
+.xy{
+
+    margin-top: 50px;
+
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    color: #43485c;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+}
+
+.heade-text h2 {
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
